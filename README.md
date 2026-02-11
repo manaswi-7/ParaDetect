@@ -11,7 +11,4 @@ A Deep Learning based Malaria Parasite Detection Web App built using:
 - Predict Parasitized / Uninfected
 - Simple and interactive UI
 
-## How to Run
 
-pip install -r requirements.txt
-streamlit run app/app.py
